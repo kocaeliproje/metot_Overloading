@@ -1,0 +1,15 @@
+G:\Drive'ım\patika\CSharp\metot_Overloading\bin\Debug\net6.0\metot_Overloading.exe
+G:\Drive'ım\patika\CSharp\metot_Overloading\bin\Debug\net6.0\metot_Overloading.deps.json
+G:\Drive'ım\patika\CSharp\metot_Overloading\bin\Debug\net6.0\metot_Overloading.runtimeconfig.json
+G:\Drive'ım\patika\CSharp\metot_Overloading\bin\Debug\net6.0\metot_Overloading.dll
+G:\Drive'ım\patika\CSharp\metot_Overloading\bin\Debug\net6.0\metot_Overloading.pdb
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.csproj.AssemblyReference.cache
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.AssemblyInfoInputs.cache
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.AssemblyInfo.cs
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.csproj.CoreCompileInputs.cache
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.dll
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\refint\metot_Overloading.dll
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.pdb
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\metot_Overloading.genruntimeconfig.cache
+G:\Drive'ım\patika\CSharp\metot_Overloading\obj\Debug\net6.0\ref\metot_Overloading.dll
